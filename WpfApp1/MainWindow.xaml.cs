@@ -118,7 +118,7 @@ namespace WpfApp1
             double a = 213123;
             double[] Int = new double[1];
             double[] r = vd.Splain(ref a, ref Int);
-            MessageBox.Show(a.ToString());
+            //MessageBox.Show(a.ToString());
 
             //string s = "";
             //for (int i = 0; i < r.Length; i++)
