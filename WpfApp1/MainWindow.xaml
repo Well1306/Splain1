@@ -146,6 +146,6 @@
         <ListBox Grid.Row="0" Grid.Column="2" Margin="60,50,60,30" ItemsSource="{Binding vd.Data.Str}"/>
         <Button Grid.Column="2" Content="Button" HorizontalAlignment="Left" Margin="330,79,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click_2"/>
         <TextBlock HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="{Binding vd.Data.IntInfo}"  VerticalAlignment="Center" Grid.ColumnSpan="2" FontWeight="Bold" FontSize="16"/>
-        <Button Grid.Column="1" Content="Button" HorizontalAlignment="Left" Margin="389,80,0,0" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click_3"/>
-    </Grid>
+         <!--<Button Grid.Column="1" Content="Button" HorizontalAlignment="Left" Margin="389,80,0,0" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click_3"/>-->
+     </Grid>
 </Window>
