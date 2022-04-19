@@ -174,10 +174,7 @@ namespace WpfApp1
             }
         }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show(vd.Data.Sp.Deriative_l.ToString() + "\n");
-        }
+        
     }
     public static class Cmd
     {
